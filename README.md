@@ -6,7 +6,9 @@
 
 - [Security Culture Maturity Model](https://www.knowbe4.com/security-culture-maturity-model) - The Security Culture Maturity Model created by [KnowBe4]( https://twitter.com/knowbe4) is an evidence-driven framework for understanding and benchmarking the current security-related maturity of an organization, industry vertical, region, or any measurable group. The model’s range accounts for organizations with no formal or intentional awareness, behavior, or culture plan other than to achieve basic compliance (Level 1) all the way up to the most sophisticated organizations who seek to push beyond the pack and are actively working to shape even the unwritten rules and social dynamics of how their employees value security. Learn more about these levels below.
 
-- AWS Security Maturity Model
+- [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/) - The AWS Security Maturity Model is a set of guidance and documentation from AWS, intended to help an organization assess their security maturity, shape their cloud security strategy, and to prioritise future work accordingly. It’s based on AWS’ idea of how to secure workloads deployed on their systems, and makes extensive use of their services to achieve what they consider to be a strong security posture. It cross references numerous other sources, including the AWS Well Architected Framework Security Pillar, their security documentation, and a number of previously published whitepapers.
+
+
 - IIC Security Maturity Model for IoT
 - Cyber Deception Maturity Model
 - Threat Hunting Maturity Model
