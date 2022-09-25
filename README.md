@@ -14,8 +14,8 @@
 
 - [OWASP DevSecOps Maturity Model (DSOMM)](https://owasp.org/www-project-devsecops-maturity-model/) - The DevSecOps Maturity Model, which is presented in the talk, shows security measures which are applied when using DevOps strategies and how these can be prioritized. With the help of DevOps strategies security can also be enhanced. For example, each component such as application libraries and operating system libraries in docker images can be tested for known vulnerabilities. Attackers are intelligent and creative, equipped with new technologies and purpose. Under the guidance of the forward-looking DevSecOps Maturity Model, appropriate principles and measures are at hand implemented which counteract the attacks.
 -
-- Security Testing Maturity Model. 
-- SOAR Adoption Maturity Model - https://medium.com/anton-on-security/crosspost-a-simple-soar-adoption-maturity-model-dacf61ae857b
+- Security Testing Maturity Model - https://www.isaca.org/resources/isaca-journal/issues/2016/volume-5/planning-for-information-security-testinga-practical-approach
+- SOAR Adoption Maturity Model - https://chronicle.security/blog/posts/SOAR-adoption-maturity-model/
 - Purple Maturity Model
 - The Consumer Authentication Strength Maturity Model (CASMM) 
 - Red Team Maturity Model
