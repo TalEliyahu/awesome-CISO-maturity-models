@@ -17,7 +17,7 @@
 - [SOAR Maturity Model](https://chronicle.security/blog/posts/SOAR-adoption-maturity-model/) - As security orchestration, automation and response (SOAR) adoption continues at a rapid pace,  security operations teams have a greater need for a structured planning approach.
 
 
-- Purple Maturity Model
+
 - The Consumer Authentication Strength Maturity Model (CASMM) 
 - Red Team Maturity Model
 - IIC Security Maturity Model for IoT
