@@ -2,7 +2,8 @@
 
 Cybersecurity Maturity Models
 
-- Security Operations Maturity Model (SOMM)
+- Security Operations Maturity Model (SOC-CMM) - The SOC-CMM was created as a Master's thesis research project for the master's program Master of Information Security, part of the Luleå University of Technology (LTU) educational catalog. The SOC-CMM was created using a Design Science Research approach in which a scientific approach is combined with practical testing and experiences to create a usable artifact, in this case the maturity assessment tool. The full text for the thesis can be obtained from the LTU publication portal -  [Rob van Os](https://www.linkedin.com/in/socadvisor/)
+
 - Security Awareness Maturity Model
 - AWS Security Maturity Model
 - IIC Security Maturity Model for IoT
