@@ -10,11 +10,8 @@
 
 - [Threat Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html) - Threat Hunting Maturity Model is a five-level evaluation system of how efficient an organization is in terms of cyber hunting. Threat Hunting Model was developed by David J. Bianco [(@DavidJBianco)](https://twitter.com/DavidJBianco), a Hunter and Security Architect. The main idea of this threat hunting framework is to outline different stages of organizational cyber hunting competence.
 
+- [Vendor Risk Management Maturity Model (VRMMM)](https://sharedassessments.org/vrmmm/) - The VRMMM evaluates third-party risk programs against a set of comprehensive best practices and industry benchmarks. The focus of the VRMMM is to provide third party risk managers with a tool they can use to evaluate their program against a comprehensive set of best practices. Using governance as the foundational element, the model identifies the framework elements critical to a successful program. High-level components are broken down into subcomponents in a manner that makes the model adaptable across a wide spectrum of industry groups. Being able to identify specific areas for improvement the VRMMM allows companies to make well-informed decisions on how to spend limited resources to most effectively manage vendor related risks.
 
-
-- IIC Security Maturity Model for IoT
-- CyberSecurity Capability Maturity Model C2M2
-- Vendor Risk Management Maturity Model
 - vulnerability management maturity
 - CISA Zero-trust Maturity Model
 - DevSecOps maturity model using OWASP DSOMM
@@ -23,6 +20,7 @@
 - Purple Maturity Model
 - The Consumer Authentication Strength Maturity Model (CASMM) 
 - Red Team Maturity Model
-
+- IIC Security Maturity Model for IoT
+- CyberSecurity Capability Maturity Model C2M2
 
 
