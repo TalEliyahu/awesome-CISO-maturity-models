@@ -12,9 +12,8 @@
 
 - [Vendor Risk Management Maturity Model (VRMMM)](https://sharedassessments.org/vrmmm/) - The VRMMM evaluates third-party risk programs against a set of comprehensive best practices and industry benchmarks. The focus of the VRMMM is to provide third party risk managers with a tool they can use to evaluate their program against a comprehensive set of best practices. Using governance as the foundational element, the model identifies the framework elements critical to a successful program. High-level components are broken down into subcomponents in a manner that makes the model adaptable across a wide spectrum of industry groups. Being able to identify specific areas for improvement the VRMMM allows companies to make well-informed decisions on how to spend limited resources to most effectively manage vendor related risks.
 
-- vulnerability management maturity
-- CISA Zero-trust Maturity Model
-- DevSecOps maturity model using OWASP DSOMM
+- [OWASP DevSecOps Maturity Model (DSOMM)](https://owasp.org/www-project-devsecops-maturity-model/) - The DevSecOps Maturity Model, which is presented in the talk, shows security measures which are applied when using DevOps strategies and how these can be prioritized. With the help of DevOps strategies security can also be enhanced. For example, each component such as application libraries and operating system libraries in docker images can be tested for known vulnerabilities. Attackers are intelligent and creative, equipped with new technologies and purpose. Under the guidance of the forward-looking DevSecOps Maturity Model, appropriate principles and measures are at hand implemented which counteract the attacks.
+-
 - Security Testing Maturity Model. 
 - SOAR Adoption Maturity Model - https://medium.com/anton-on-security/crosspost-a-simple-soar-adoption-maturity-model-dacf61ae857b
 - Purple Maturity Model
@@ -22,5 +21,7 @@
 - Red Team Maturity Model
 - IIC Security Maturity Model for IoT
 - CyberSecurity Capability Maturity Model C2M2
+- vulnerability management maturity
+- CISA Zero-trust Maturity Model
 
 
