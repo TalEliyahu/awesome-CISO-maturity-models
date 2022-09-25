@@ -8,10 +8,11 @@
 
 - [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/) - The AWS Security Maturity Model is a set of guidance and documentation from AWS, intended to help an organization assess their security maturity, shape their cloud security strategy, and to prioritise future work accordingly. It’s based on AWS’ idea of how to secure workloads deployed on their systems, and makes extensive use of their services to achieve what they consider to be a strong security posture. It cross references numerous other sources, including the AWS Well Architected Framework Security Pillar, their security documentation, and a number of previously published whitepapers.
 
+- [Threat Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html) - Threat Hunting Maturity Model is a five-level evaluation system of how efficient an organization is in terms of cyber hunting. Threat Hunting Model was developed by David J. Bianco [(@DavidJBianco)](https://twitter.com/DavidJBianco), a Hunter and Security Architect. The main idea of this threat hunting framework is to outline different stages of organizational cyber hunting competence.
+
+
 
 - IIC Security Maturity Model for IoT
-- Cyber Deception Maturity Model
-- Threat Hunting Maturity Model
 - CyberSecurity Capability Maturity Model C2M2
 - Vendor Risk Management Maturity Model
 - vulnerability management maturity
