@@ -19,7 +19,8 @@
 - [Consumer Authentication Strength Maturity Model (CASMM)](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/) - An easy-to-use security model for the average internet user. Basically, how secure is someone’s current behavior with respect to passwords and authentication, and how can they improve? People like moving up rankings, so let’s use that! The first way to use this model is to simply ask the user about their current behavior and show them where that ranks within these 8 Levels. If you show them they’re down at Level 1 or 2, the combination of seeing how low they are in the chart and the color might convey some measure of concern. Next, show them how to move upwards in the model!
 
 
-- Red Team Maturity Model
+- [Red Team Maturity Model](https://www.redteams.fyi/) - A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building internal Red Teams.
+
 - IIC Security Maturity Model for IoT
 - CyberSecurity Capability Maturity Model C2M2
 - vulnerability management maturity
