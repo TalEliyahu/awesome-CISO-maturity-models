@@ -22,7 +22,7 @@
 
 - [Red Team Maturity Model](https://www.redteams.fyi/) - A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building internal Red Teams.
 
-- [CyberSecurity Capability Maturity Model (C2M2)](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2) - C2M2 is a free tool to help organizations evaluate their cybersecurity capabilities and optimize security investments. It uses a set of industry-vetted cybersecurity practices focused on both information technology (IT) and operations technology (OT) assets and environments. Organizations can use the C2M2 to consistently measure their cybersecurity capabilities over time, identify target maturity levels based on risk, and prioritize the actions and investments that allow them to meet their targets.
+- [CyberSecurity Capability Maturity Model (C2M2)](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2) - Organizations can use the C2M2 to consistently measure their cybersecurity capabilities over time, identify target maturity levels based on risk, and prioritize the actions and investments that allow them to meet their targets. U.S. energy organizations have been using the C2M2 to evaluate and improve their cybersecurity capabilities for more than a decade. Since 2012, DOE has responded to more than 2,400 requests for the C2M2 PDF-based Tool from owners and operators in U.S. critical infrastructure sectors and international partners that are adopting the model. Increasing tool requests suggests a growing adoption of the C2M2 across the globe.
 
 
 - vulnerability management maturity
