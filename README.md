@@ -34,6 +34,6 @@
 
 - [API Security Maturity Model](https://curity.io/resources/learn/the-api-security-maturity-model/) - Inspired by the Richardson Maturity Model, which outlines increasing degrees of web service development maturity, the API Security Maturity Model reframes the model within the context of security. Within this model, security and trust are improved the higher up you go.
 
-[Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/) - BSIMM is a data-driven model developed through analysis of real-world software security initiatives (also known as application or product security programs). BSIMM13, published in September 2022, represents the latest evolution of this detailed measuring stick for software security.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/) - BSIMM is a data-driven model developed through analysis of real-world software security initiatives (also known as application or product security programs). BSIMM13, published in September 2022, represents the latest evolution of this detailed measuring stick for software security.
 
 
