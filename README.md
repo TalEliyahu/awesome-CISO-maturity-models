@@ -38,4 +38,5 @@
 
 - [Container Security Maturity Model](https://www.redhat.com/en/resources/container-security-maturity-model-whitepaper) - Understandably, security needs to evolve as companies move from developing their first containerized application to using entirely new development processes to build containers and managing thousands of microservices. The following maturity model can help organizations understand and successfully meet the security challenges that go along with adopting and expanding containerized applications.
 
+- [Privileged Access Management Maturity Model](https://delinea.com/resources/pam-maturity-model-whitepaper) - Privileged access is the primary method that attackers use to gain access to sensitive systems. Protecting privileged access on each system is becoming extremely important to defend against these attacks. The Delinea Privileged Access Management (PAM) Maturity Model is a framework to help you systematically lower privileged access risk, increase business agility, and improve operational efficiency.
 
