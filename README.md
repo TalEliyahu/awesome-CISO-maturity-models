@@ -27,7 +27,7 @@
 
 - vulnerability management maturity
 
-- IIC Security Maturity Model for IoT
+- [IoT Security Maturity Model](https://www.iiconsortium.org/pdf/SMM_Description_and_Intended_Use_FINAL_Updated_V1.1.pdf) - The goal of a Security Maturity Model (SMM) is to provide a path for Internet of Things (IoT) providers to know where they need to be and how to invest in security mechanisms that meet their requirements without over-investing in unnecessary security mechanisms. It seeks to help organizations identify the appropriate approach for effective enhancement of these practices where needed. Deciding where to focus limited security resources is a challenge for most organizations given the complexity of a constantly changing security landscape.
 
 
 
