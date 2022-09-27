@@ -40,11 +40,5 @@
 
 - [Privileged Access Management Maturity Model](https://delinea.com/resources/pam-maturity-model-whitepaper) - Privileged access is the primary method that attackers use to gain access to sensitive systems. Protecting privileged access on each system is becoming extremely important to defend against these attacks. The Delinea Privileged Access Management (PAM) Maturity Model is a framework to help you systematically lower privileged access risk, increase business agility, and improve operational efficiency.
 
-
-# Others
-
 - [Infrastructure as Code Maturity Model](https://programmaticponderings.com/2016/11/25/infrastructure-as-code-maturity-model/) - Although infrastructure as code is not explicitly called out as a practice in the [Continuous Delivery Maturity Model](https://github.com/garystafford/cd-maturity-model), many of it’s best practices can be found in the maturity model. For example, the model prescribes automated environment provisioning, orchestrated deployments, and the use of metrics for continuous improvement. The good news is that there are a lot of information and tools available today for anyone who would like to automatically deploy infrastructure resources with built-in security in the cloud by developing secure infrastructure as a code. [NCC group article](https://research.nccgroup.com/2022/09/19/a-guide-to-improving-security-through-infrastructure-as-code/) aims to make an attempt to collect the main starting points, creating a guide on how to integrate security into infrastructure as a code and show how these security checks and gates, tools and procedures secures the infrastructure by mentioning free and/or open-source tools wherever possible.
-
-
-
 
