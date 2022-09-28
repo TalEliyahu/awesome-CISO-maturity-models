@@ -49,3 +49,7 @@
 
 - Insider Threat Program Maturity Model
 
+# Others
+
+- Privacy Capability Maturity Model
+
