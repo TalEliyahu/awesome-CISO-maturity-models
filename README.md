@@ -49,6 +49,9 @@
 
 - [Insider Threat Program Maturity Model](https://www.veriato.com/resources/whitepapers/insider-threat-maturity-report-2019) - The Insider Threat Program Maturity Model created to help security professionals assess their organization’s ability to monitor for, detect, and respond to insider threats. By using a maturity model for reference, organizations can see where their program needs improvement, working towards an Optimized level of maturity. This maturity level allows the organization to dynamically align the program with current operations, responding quickly, efficiently, and effectively to both leading and active indicators of insider threat
 
+- [Security Maturity Model](https://www.wwt.com/wwt-research/security-maturity-model) - This model is designed to help organizations grow and mature their security capabilities related to people, processes and technology. The goal is to help you better understand the reality of where your organization stands today and the steps you should take to level up. A step-by-step guide for CISOs to build alignment, reduce risk and deliver business value. CISOs can no longer focus strictly on developing technical capabilities and protecting their organizations. Executives and boards are looking to CISOs to make investments that drive growth with a holistic security framework. No security program can fully eliminate risk or human error, but a mature approach to cybersecurity can mitigate the risks that pose the most danger to organizational objectives and success. 
+
+
 # Others
 
 - Privacy Capability Maturity Model
